@@ -13,3 +13,10 @@
 - Task Master : Clément MANANT
 - Scribe : Killian BUTON
 - Creative Lead : Malory BERGEZ-CASALOU
+
+## Rôles séance 3 :
+
+- Lead : Malory BERGEZ-CASALOU 
+- Task Master : Flavio DE FREITAS
+- Scribe : Clément MANANT
+- Creative Lead : Killian BUTON
