@@ -1,4 +1,4 @@
-# lapin-ture
+# animals 2733
 
 ## Rôles séance 1 :
 
@@ -20,3 +20,10 @@
 - Task Master : Flavio DE FREITAS
 - Scribe : Clément MANANT
 - Creative Lead : Killian BUTON
+
+## Rôles séance 4 :
+
+- Lead : Killian BUTON
+- Task Master : Malory BERGEZ-CASALOU 
+- Scribe : Flavio DE FREITAS
+- Creative Lead : Clément MANANT
